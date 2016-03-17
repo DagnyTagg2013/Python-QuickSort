@@ -1,0 +1,35 @@
+
+# Handling File exceptions
+# http://www.diveintopython.net/file_handling/
+
+# Underlines in Python
+# http://igorsobreira.com/2010/09/16/difference-between-one-underline-and-two-underlines-in-python.html
+
+# Return values in Python
+# http://www.diveintopython.net/getting_to_know_python/declaring_functions.html
+
+# NOTE:  differences from Java
+# - need to simulate main method entrypoint
+# - no private access specifiers
+# - no class encapsulation enforced
+# - no return types specified, default is None type
+
+# - iterables and for .. loops
+# http://stackoverflow.com/questions/29292133/how-to-count-down-in-for-loop-in-python
+
+# How to copy a list in Python
+# http://stackoverflow.com/questions/2612802/how-to-clone-or-copy-a-list-in-python
+# https://docs.python.org/2/tutorial/introduction.html
+
+# pass placeholder
+# http://stackoverflow.com/questions/13886168/how-to-use-the-pass-statement-in-python
+
+# concatenating two lists in Python
+# NOT APPEND, as you'll get nested sublist element!!!
+# http://stackoverflow.com/questions/1720421/join-two-lists-in-python
+
+# method with NO return value
+# http://stackoverflow.com/questions/15788969/python-function-always-returns-none
+
+# accessing list values in Python
+# http://www.tutorialspoint.com/python/python_lists.htm
